@@ -1,0 +1,2 @@
+# Neetcode Practice
+This repository is for recording all submissions on `neetcode.io` for future reference. It serves the purpose of my own studying of Python, Data Structs & Algorithms, and practice problems for interview prepping and improving my own skillset.
