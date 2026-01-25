@@ -1,0 +1,5 @@
+Python Beginner Notes
+- Can reassign variables in one line:
+    - my_var1, my_var2 = my_var2, my_var1
+
+- Python is a dynamically typed language, languages like C/C++/Java are statically typed.
